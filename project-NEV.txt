@@ -2,3 +2,5 @@ project nev
 -belajar subnetting ip v4
 -belajar subnetting ip v6
 -belajar vlsm
+-belajar git dan github
+network automation
